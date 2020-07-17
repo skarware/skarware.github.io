@@ -1,17 +1,13 @@
----
-layout: page
-title: skarware.github.io
----
 ### Hi there 👋
 
-Albeit a **former IT systems administrator** :floppy_disk:, I am self-motivated and always eager to learn something new :brain:. In recent years I have been profoundly interested in **web application development** using :fist_right: **`JavaScript && Java`** :fist_left: technologies. Therefore, I am very open to career opportunities in **`Full-Stack || Front-End || Back-End`** related positions where I shall grow as a **_web developer_**. :mechanical_arm:
+Albeit a **former IT systems administrator** 💾, I am self-motivated and always eager to learn something new 🧠. In recent years I have been profoundly interested in **web application development** using 🤜 **`JavaScript && Java`** 🤛 technologies. Therefore, I am very open to career opportunities in **`Full-Stack || Front-End || Back-End`** related positions where I shall grow as a **_web developer_**. 🦾
 
-### :scroll: Please find my:
+### 📜 Please find my:
 
-**GitHub profile:** https://github.com/skarware
+**GitHub profile:** <https://github.com/skarware>
 
-**Portfolio:** https://martynas.skaringa.dev/portfolio
+**Portfolio:** <https://martynas.skaringa.dev/portfolio>
 
-**Resume:** https://martynas.skaringa.dev
+**Resume:** <https://martynas.skaringa.dev>
 
-**Blog:** https://blog.skarware.eu
+**Blog:** <https://blog.skarware.eu>
